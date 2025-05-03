@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\TextRPG\\TextRPG\\TextRPG.csproj": {}
+    "D:\\Github\\TextRPG\\TextRPG\\TextRPG.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\TextRPG\\TextRPG\\TextRPG.csproj": {
+    "D:\\Github\\TextRPG\\TextRPG\\TextRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\TextRPG\\TextRPG\\TextRPG.csproj",
+        "projectUniqueName": "D:\\Github\\TextRPG\\TextRPG\\TextRPG.csproj",
         "projectName": "TextRPG",
-        "projectPath": "D:\\Workspace\\TextRPG\\TextRPG\\TextRPG.csproj",
+        "projectPath": "D:\\Github\\TextRPG\\TextRPG\\TextRPG.csproj",
         "packagesPath": "C:\\Users\\psj\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\TextRPG\\TextRPG\\obj\\",
+        "outputPath": "D:\\Github\\TextRPG\\TextRPG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\c\\SDK\\NuGetPackages"
